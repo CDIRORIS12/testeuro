@@ -1,0 +1,654 @@
+#EXTM3U
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="INFORMASI" tvg-logo="https://m.media-amazon.com/images/S/aplus-media/vc/cc645190-471e-4bdb-b24c-cf2951c23b11.__CR0,0,3,3_PT0_SX3_V1___.jpg" ch-number="1" group-logo="",PAYLIST INI FREE 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://edge.nim.mivo.tv/video/assets/oops.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="Euro Championship" tvg-logo="https://www.blibli.com/friends-backend/wp-content/uploads/2023/06/B400354-jadwal-kualifikasi-euro-2024.jpg" ch-number="92" group-logo="",LIVE EURO (1)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e7c650ac72dcd0311411832a8271bb10:ea8fa43cc7102e481cd441c58b2ecb08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://combilolo.my.id/ch/astro.mpd?id=5148&amp;type=dashiso&amp;token=31jhtl2al2q21y2t1k2q213221gdl13d3122wh12eyyat13qad2ds2d5s3sgd33df33w2w2t24h13sd35aa33213tq3dl2watdd1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="Euro Championship" tvg-logo="https://www.blibli.com/friends-backend/wp-content/uploads/2023/06/B400354-jadwal-kualifikasi-euro-2024.jpg" ch-number="92" group-logo="",LIVE EURO (2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://combilolo.my.id/kr/index.m3u8?id=tvnsports&amp;token=31jhtl2al2q21y2t1k2q213221gdl13d3122wh12eyyat13qad2ds2d5s3sgd33df33w2w2t24h13sd35aa33213tq3dl2watdd1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="Euro Championship" tvg-logo="https://www.blibli.com/friends-backend/wp-content/uploads/2023/06/B400354-jadwal-kualifikasi-euro-2024.jpg" ch-number="92" group-logo="",LIVE EURO (3)
+#EXTVLCOPT:http-referrer=https://weakspell.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://combilolo.my.id/tata/index.m3u8?id=soccer-streams/poland-vs-netherlands/165006
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="BWF Australia" tvg-logo="https://storage.allsportdb.com/orig/event/a6c20d10-cf8a-458e-a8fc-b1c3dbc9ef68" ch-number="92" group-logo="",BWF 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://combilolo.my.id/ch/fs.mpd?id=SPOTVHD&amp;token=31jhtl2al2q21y2t1k2q213221gdl13d3122wh12eyyat13qad2ds2d5s3sgd33df33w2w2t24h13sd35aa33213tq3dl2watdd1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="UFC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/UFC_Logo.svg" ch-number="92" group-logo="",LIVE 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="UFC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/UFC_Logo.svg" ch-number="92" group-logo="",LIVE 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ca4b6424b596443f9a5aabf110409a17:b5fc8d4146a34997ab64bae56156d766
+#EXTVLCOPT:http-user-agent=ExoDoris/12.11.0 (Linux;Android 9) ExoPlayerLib/2.18.4
+https://dice-live-us.akamaized.net/hdntl=exp=1718590062~acl=%2f*~id=5549d201-8b46-4497-8a44-80285b35a0cb~data=hdntl,dWlkPU4zY1BuZnxlYTdiMzc3MC03MWJiLTQwYWItYjlmZC1lMWY4ZWI3Y2Y3Y2ImaXA9ODEuMTY4LjExNi4xMiZleHA9MTcxODU5MDA5MiZlaWQ9MjY2OTgyJmNpZD1kY2UudWZjJm9pZD0xNDg~hmac=10163f04d640a97daa71fe7f1ce668485633dcb64619b77c35e4619f72ef426d/dash/live/2026439/266982-273086/manifest-d.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="Lokal" tvg-logo="https://w7.pngwing.com/pngs/499/465/png-transparent-rcti-logo-streaming-media-television-media-nusantara-citra-televisi-indonesia-television-blue-angle.png" ch-number="92" group-logo="",RCTI
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://combilolo.my.id/tes/drm.php?id=1&amp;token=31jhtl2al2q21y2t1k2q213221gdl13d3122wh12eyyat13qad2ds2d5s3sgd33df33w2w2t24h13sd35aa33213tq3dl2watdd1
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://combilolo.my.id/tes/index.mpd?id=1&amp;token=31jhtl2al2q21y2t1k2q213221gdl13d3122wh12eyyat13qad2ds2d5s3sgd33df33w2w2t24h13sd35aa33213tq3dl2watdd1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="Lokal" tvg-logo="https://thumbor.prod.vidiocdn.com/uhO4k9iqRVaHjZeJXJ2KpRw_w-k=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-stream-7ab79a.jpg" ch-number="92" group-logo="",TRANS TV
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
+https://combilolo.my.id/gen/index.m3u8?id=transtv&amp;token=31jhtl2al2q21y2t1k2q213221gdl13d3122wh12eyyat13qad2ds2d5s3sgd33df33w2w2t24h13sd35aa33213tq3dl2watdd1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="Lokal" tvg-logo="https://awsimages.detik.net.id/visual/2022/12/15/logo-trans-7_169.jpeg?w=650" ch-number="92" group-logo="",TRANS 7
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
+https://combilolo.my.id/gen/index.m3u8?id=trans7&amp;token=31jhtl2al2q21y2t1k2q213221gdl13d3122wh12eyyat13qad2ds2d5s3sgd33df33w2w2t24h13sd35aa33213tq3dl2watdd1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="Lokal" tvg-logo="https://i.pinimg.com/736x/a9/7c/6a/a97c6a6ce6beb5666dffba7a9f920af7.jpg" ch-number="92" group-logo="",RTV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://combilolo.my.id/tes/drm.php?id=11&amp;token=31jhtl2al2q21y2t1k2q213221gdl13d3122wh12eyyat13qad2ds2d5s3sgd33df33w2w2t24h13sd35aa33213tq3dl2watdd1
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://combilolo.my.id/tes/index.mpd?id=11&amp;token=31jhtl2al2q21y2t1k2q213221gdl13d3122wh12eyyat13qad2ds2d5s3sgd33df33w2w2t24h13sd35aa33213tq3dl2watdd1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="Lokal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/12px-GTV_%282017%29.svg.png" ch-number="92" group-logo="",GTV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://combilolo.my.id/tes/drm.php?id=3&amp;token=31jhtl2al2q21y2t1k2q213221gdl13d3122wh12eyyat13qad2ds2d5s3sgd33df33w2w2t24h13sd35aa33213tq3dl2watdd1
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://combilolo.my.id/tes/index.mpd?id=3&amp;token=31jhtl2al2q21y2t1k2q213221gdl13d3122wh12eyyat13qad2ds2d5s3sgd33df33w2w2t24h13sd35aa33213tq3dl2watdd1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="Lokal" tvg-logo="https://i.ytimg.com/vi/-e5oOiMZ2zI/maxresdefault.jpg" ch-number="92" group-logo="",VIVA TELEVISI
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
+https://combilolo.my.id/gen/index.m3u8?id=vtv&amp;token=31jhtl2al2q21y2t1k2q213221gdl13d3122wh12eyyat13qad2ds2d5s3sgd33df33w2w2t24h13sd35aa33213tq3dl2watdd1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="Lokal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png" ch-number="92" group-logo="",MNCTV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://combilolo.my.id/tes/drm.php?id=2&amp;token=31jhtl2al2q21y2t1k2q213221gdl13d3122wh12eyyat13qad2ds2d5s3sgd33df33w2w2t24h13sd35aa33213tq3dl2watdd1
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://combilolo.my.id/tes/index.mpd?id=2&amp;token=31jhtl2al2q21y2t1k2q213221gdl13d3122wh12eyyat13qad2ds2d5s3sgd33df33w2w2t24h13sd35aa33213tq3dl2watdd1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="Lokal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/12px-SCTV_Logo.svg.png" ch-number="92" group-logo="",SCTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://combilolo.my.id/ch/fs.mpd?id=SCTVHD&amp;token=31jhtl2al2q21y2t1k2q213221gdl13d3122wh12eyyat13qad2ds2d5s3sgd33df33w2w2t24h13sd35aa33213tq3dl2watdd1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="Lokal" tvg-logo="https://thumbor.prod.vidiocdn.com/6_ilo1sVpgPuKNo0D1xeHwZNVw0=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-bb689b.jpg" ch-number="92" group-logo="",INDOSIAR
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://combilolo.my.id/ch/fs.mpd?id=IndosiarHD&amp;token=31jhtl2al2q21y2t1k2q213221gdl13d3122wh12eyyat13qad2ds2d5s3sgd33df33w2w2t24h13sd35aa33213tq3dl2watdd1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="Lokal" tvg-logo="https://thumbor.prod.vidiocdn.com/Hh8KNGo558dzdT-tqWrLonOsmAM=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-tv-stream-b6cca5.jpg" ch-number="92" group-logo="",ANTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b4899559135b490d98a892c1d6a45e20:6b5feff6a7242dc4b4345bedb84c2181
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://combilolo.my.id/ch/fs.mpd?id=ANTV&amp;token=31jhtl2al2q21y2t1k2q213221gdl13d3122wh12eyyat13qad2ds2d5s3sgd33df33w2w2t24h13sd35aa33213tq3dl2watdd1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="Lokal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" ch-number="92" group-logo="",MOJI
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://combilolo.my.id/ch/fs.mpd?id=MOJIOChannel&amp;token=31jhtl2al2q21y2t1k2q213221gdl13d3122wh12eyyat13qad2ds2d5s3sgd33df33w2w2t24h13sd35aa33213tq3dl2watdd1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="Lokal" tvg-logo="https://www.transtv.co.id/livetv/anytv/KOMPAS_TV_live_streaming_tv.jpg" ch-number="92" group-logo="",KOMPASTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a898c1af1a76498788cb616d39e551a6:f4c0c13bb1b84004b32ae4e9042d1571
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://combilolo.my.id/ch/fs.mpd?id=KOMPASTVHD&amp;token=31jhtl2al2q21y2t1k2q213221gdl13d3122wh12eyyat13qad2ds2d5s3sgd33df33w2w2t24h13sd35aa33213tq3dl2watdd1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="Lokal" tvg-logo="https://thumbor.prod.vidiocdn.com/CN732k1UkV-MWtonPwmlMzDE-gY=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/777/metro-tv-461c64.jpg" ch-number="92" group-logo="",MetroTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=66744f2f3e774c339c4f812dc37737d8:814398c6cb279eed14f1134d0ea31266
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://combilolo.my.id/ch/fs.mpd?id=MetroTVHD&amp;token=31jhtl2al2q21y2t1k2q213221gdl13d3122wh12eyyat13qad2ds2d5s3sgd33df33w2w2t24h13sd35aa33213tq3dl2watdd1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="Lokal" tvg-logo="https://thumbor.prod.vidiocdn.com/stn_xzEBBDF0BDuxM9iNypkhsN4=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-a88018.jpg" ch-number="92" group-logo="",TvOne
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b6486d00c9d842d88ba1660deec8becc:67ed72016590f2138d9fc10b807708b2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://combilolo.my.id/ch/fs.mpd?id=TvOne&amp;token=31jhtl2al2q21y2t1k2q213221gdl13d3122wh12eyyat13qad2ds2d5s3sgd33df33w2w2t24h13sd35aa33213tq3dl2watdd1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="Movies" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/251_144.png" ch-number="92" group-logo="",Astro BOO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8yZr7GB/JYefSGQPMPHIiA", "kid":"6k1RreAbvzlG4N6XMFG6EA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://combilolo.my.id/ch/astro.mpd?id=2407&amp;type=dashiso&amp;token=31jhtl2al2q21y2t1k2q213221gdl13d3122wh12eyyat13qad2ds2d5s3sgd33df33w2w2t24h13sd35aa33213tq3dl2watdd1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="Movies" tvg-logo="https://ws.kapallayar.cc//image//Logo//ENT//New//E_Show.png" ch-number="92" group-logo="",SHOWCASE MOVIES
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"yg0YU4hFuuLLT0oWgDbxdA", "kid":"uAkMg2HMXMXBqsDsJxDeEA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://combilolo.my.id/ch/astro.mpd?id=5054&amp;type=dashiso&amp;token=31jhtl2al2q21y2t1k2q213221gdl13d3122wh12eyyat13qad2ds2d5s3sgd33df33w2w2t24h13sd35aa33213tq3dl2watdd1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWY8rZvMd_6ys1Otgb2CuzZz8pV-1IHeobEO3aJeAU-Q&amp;s" ch-number="92" group-logo="",Hits Movies
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=12a34fccac944a19a14101a9009dae05:2d1543668411b31aec7269d889d4821c
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://combilolo.my.id/ch/fs.mpd?id=HitsMoviesHD&amp;token=31jhtl2al2q21y2t1k2q213221gdl13d3122wh12eyyat13qad2ds2d5s3sgd33df33w2w2t24h13sd35aa33213tq3dl2watdd1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="Movies" tvg-logo="https://img2.beritasatu.com/cache/investor/480x310-3/20110114112637402.jpg" ch-number="92" group-logo="",Celestial Classic Movies
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://combilolo.my.id/tes/drm.php?id=045&amp;token=31jhtl2al2q21y2t1k2q213221gdl13d3122wh12eyyat13qad2ds2d5s3sgd33df33w2w2t24h13sd35aa33213tq3dl2watdd1
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://combilolo.my.id/tes/index.mpd?id=045&amp;token=31jhtl2al2q21y2t1k2q213221gdl13d3122wh12eyyat13qad2ds2d5s3sgd33df33w2w2t24h13sd35aa33213tq3dl2watdd1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="Movies" tvg-logo="https://thumbor.prod.vidiocdn.com/yoVlMr0ghihOoyLPLJlHVBP_JjQ=/filters:quality(70)/vidio-web-prod-channel/uploads/channel/image/188288/celestial-movies-c82bbb.JPG" ch-number="92" group-logo="",Celestial Movies
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c6bbd293f9604131961bf10ddd1d6d31:ff08a6c78c1d1414a1cfae760ab623a9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://combilolo.my.id/ch/fs.mpd?id=CelestialMoviesHD&amp;token=31jhtl2al2q21y2t1k2q213221gdl13d3122wh12eyyat13qad2ds2d5s3sgd33df33w2w2t24h13sd35aa33213tq3dl2watdd1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Rock_Action.png/280px-Rock_Action.png" ch-number="92" group-logo="",Rock Action
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=99e736f170b148ffb16d0ad6c8f93ef4:d1b4737ab41f0daae733f11a4b84fa02
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://combilolo.my.id/ch/fs.mpd?id=RockExtremeHD&amp;token=31jhtl2al2q21y2t1k2q213221gdl13d3122wh12eyyat13qad2ds2d5s3sgd33df33w2w2t24h13sd35aa33213tq3dl2watdd1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="Movies" tvg-logo="https://logo.iptveditor.com/tvnmovies.png" ch-number="92" group-logo="",TVN Movies 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=50c645a10d3e4e4b8a5d7df419dc7566:9c1844243886ee1edc648bcdfdf88b2a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://combilolo.my.id/ch/fs.mpd?id=TvNMoviesHD&amp;token=31jhtl2al2q21y2t1k2q213221gdl13d3122wh12eyyat13qad2ds2d5s3sgd33df33w2w2t24h13sd35aa33213tq3dl2watdd1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="Movies" tvg-logo="https://w7.pngwing.com/pngs/914/277/png-transparent-hbo-television-channel-logo-television-show-design-television-text-logo.png" ch-number="92" group-logo="",HBO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=21ffca10810542af9734b82f4000c274:e3d2e4843ffadf510f6c91668a03e183
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://combilolo.my.id/ch/fs.mpd?id=HBOHD&amp;token=31jhtl2al2q21y2t1k2q213221gdl13d3122wh12eyyat13qad2ds2d5s3sgd33df33w2w2t24h13sd35aa33213tq3dl2watdd1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE2ppafRVDb9pYTTZL5Msrt_4Antbpguvy2Ye9GdmIhg&amp;s" ch-number="92" group-logo="",HBO Signature
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5263a24be1084f29b190d98a52e30384:044798ce23772d14859c306a8a6b33f3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://combilolo.my.id/ch/fs.mpd?id=HBOSignatureHD&amp;token=31jhtl2al2q21y2t1k2q213221gdl13d3122wh12eyyat13qad2ds2d5s3sgd33df33w2w2t24h13sd35aa33213tq3dl2watdd1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" ch-number="92" group-logo="",HBO Hits
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=47a7ef37081a4ab5937c94272d9988b6:e637e6be1231e14a670120b23dae1a0b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://combilolo.my.id/ch/fs.mpd?id=HBOHitsHD&amp;token=31jhtl2al2q21y2t1k2q213221gdl13d3122wh12eyyat13qad2ds2d5s3sgd33df33w2w2t24h13sd35aa33213tq3dl2watdd1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/800px-HBO_Family.svg.png" ch-number="92" group-logo="",HBO Family
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c374098609974ff5a1db0f2300098092:1cf7e0ca54f6f8a84f99a0607c0dfcee
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://combilolo.my.id/ch/fs.mpd?id=HBOFamilyHD&amp;token=31jhtl2al2q21y2t1k2q213221gdl13d3122wh12eyyat13qad2ds2d5s3sgd33df33w2w2t24h13sd35aa33213tq3dl2watdd1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="Movies" tvg-logo="https://e7.pngegg.com/pngimages/946/949/png-clipart-logo-cinemax-television-channel-space-television-text.png" ch-number="92" group-logo="",CINEMAX 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b489136b34aa4166a9c9984f19155d30:2c6de796954779fd6f51584425ac834e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://combilolo.my.id/ch/fs.mpd?id=CinemaxHD&amp;token=31jhtl2al2q21y2t1k2q213221gdl13d3122wh12eyyat13qad2ds2d5s3sgd33df33w2w2t24h13sd35aa33213tq3dl2watdd1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="Entertainment" tvg-logo="https://asiatoday.id/wp-content/uploads/2020/07/PicsArt_07-27-03.08.43-750x355.png" ch-number="92" group-logo="",AFN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=367f9bf4d0684f109d74a9eeb68d32be:59983c58c1b0daa1dcc370f697ccaead
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://combilolo.my.id/ch/fs.mpd?id=AFNHD&amp;token=31jhtl2al2q21y2t1k2q213221gdl13d3122wh12eyyat13qad2ds2d5s3sgd33df33w2w2t24h13sd35aa33213tq3dl2watdd1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="Entertainment" tvg-logo="https://eu1-prod-images.disco-api.com/2023/06/14/e10a2937-10e9-362e-b09d-d32349061659.png?bf=0&amp;f=jpg&amp;p=true&amp;q=70&amp;w=1920" ch-number="92" group-logo="",Food Network
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6dc31ac1031242a8b0c37286acb66a37:648286167b494bf9ee122eced0e37de1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://combilolo.my.id/ch/fs.mpd?id=FoodNetworkHD&amp;token=31jhtl2al2q21y2t1k2q213221gdl13d3122wh12eyyat13qad2ds2d5s3sgd33df33w2w2t24h13sd35aa33213tq3dl2watdd1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Gem_TV_logo_2020.png" ch-number="92" group-logo="",GEM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=53b7da012ab34bd4a37e1190174015e2:498fb9e0165554a2de01fded75be092e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://combilolo.my.id/ch/fs.mpd?id=GEMHD&amp;token=31jhtl2al2q21y2t1k2q213221gdl13d3122wh12eyyat13qad2ds2d5s3sgd33df33w2w2t24h13sd35aa33213tq3dl2watdd1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="Entertainment" tvg-logo="https://logo.iptveditor.com/otvn.png" ch-number="92" group-logo="",TVN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=844db5a3a7ff4339b22f93811b004148:de946a52bd1df1d8a9e6510b1e0b3576
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://combilolo.my.id/ch/fs.mpd?id=TvNHD&amp;token=31jhtl2al2q21y2t1k2q213221gdl13d3122wh12eyyat13qad2ds2d5s3sgd33df33w2w2t24h13sd35aa33213tq3dl2watdd1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="Entertainment" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Citra_Drama.PNG/revision/latest?cb=20210307072503" ch-number="92" group-logo="",Citra Drama 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eabfbb7dd5ef461699c879b05941e18d:c2f7e8f9468def5266e01a4c646b76a6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://combilolo.my.id/ch/fs.mpd?id=CitraDramaHD&amp;token=31jhtl2al2q21y2t1k2q213221gdl13d3122wh12eyyat13qad2ds2d5s3sgd33df33w2w2t24h13sd35aa33213tq3dl2watdd1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d6/Logo_One_TV_Asia_%282020%29.png" ch-number="92" group-logo="",ONE 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7e68d7c2667465f976361eb0d6bd0c1:32a856d04efbf93cee7b2c97643d7998
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://combilolo.my.id/ch/fs.mpd?id=ONEHD&amp;token=31jhtl2al2q21y2t1k2q213221gdl13d3122wh12eyyat13qad2ds2d5s3sgd33df33w2w2t24h13sd35aa33213tq3dl2watdd1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" ch-number="92" group-logo="",AXN 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b7b00124894d4f1f8b91fba79160b896:bb236ab2b198c2ffd722817bfa74cd08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://combilolo.my.id/ch/fs.mpd?id=AXNHD&amp;token=31jhtl2al2q21y2t1k2q213221gdl13d3122wh12eyyat13qad2ds2d5s3sgd33df33w2w2t24h13sd35aa33213tq3dl2watdd1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Rock_Entertainment.png/800px-Rock_Entertainment.png" ch-number="92" group-logo="",Rock Entertainment 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5468e719846d4dd4adc59e85312375e8:98566155c257462809a8705f5efd7819
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://combilolo.my.id/ch/fs.mpd?id=RockEntertainmentHD&amp;token=31jhtl2al2q21y2t1k2q213221gdl13d3122wh12eyyat13qad2ds2d5s3sgd33df33w2w2t24h13sd35aa33213tq3dl2watdd1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="Entertainment" tvg-logo="https://thumbor.prod.vidiocdn.com/fCzXGqdnPNq6FoD0VUX-jOrUz_A=/filters:quality(70)/vidio-web-prod-channel/uploads/channel/image/188291/kbs-c8f258.jpg" ch-number="92" group-logo="",KBS World 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4dbd7f200e1f43c1a5a7b0bb4d753527:7fa839050222d118f97ba1f770f7d188
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://combilolo.my.id/ch/fs.mpd?id=KBSWorldHD&amp;token=31jhtl2al2q21y2t1k2q213221gdl13d3122wh12eyyat13qad2ds2d5s3sgd33df33w2w2t24h13sd35aa33213tq3dl2watdd1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="Entertainment" tvg-logo="https://www.hitsnow.tv/assets/hits-logo-color.png" ch-number="92" group-logo="",Hits
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=530cb2294e474e1f910498363a8c3864:e70e6b093930453d1dc66ab0e259131a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://combilolo.my.id/ch/fs.mpd?id=HitsHD&amp;token=31jhtl2al2q21y2t1k2q213221gdl13d3122wh12eyyat13qad2ds2d5s3sgd33df33w2w2t24h13sd35aa33213tq3dl2watdd1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="Entertainment" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMoag9rURgNNSmL0QbGV814imK3opzgCyit6fqmIiQUw&amp;s" ch-number="92" group-logo="",Citra Entertainment 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=05cb4bbd91e34d858f6921e7196f7795:da3e19311e3a3d147607971a101c8dc3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://combilolo.my.id/ch/fs.mpd?id=CitraEntertainmentHD&amp;token=31jhtl2al2q21y2t1k2q213221gdl13d3122wh12eyyat13qad2ds2d5s3sgd33df33w2w2t24h13sd35aa33213tq3dl2watdd1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="Movies" tvg-logo="https://about.vidio.com/wp-content/uploads/2019/09/Mobile.png" ch-number="92" group-logo="",Citra Bioskop 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=94788bc937054090b216dc101e5fa5dc:297c97962ff8d9e99f1da178ea0083ec
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://combilolo.my.id/ch/fs.mpd?id=CitraBioskopHD&amp;token=31jhtl2al2q21y2t1k2q213221gdl13d3122wh12eyyat13qad2ds2d5s3sgd33df33w2w2t24h13sd35aa33213tq3dl2watdd1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/KBS_1_logo.svg" ch-number="92" group-logo="",KBS 1
+#EXTVLCOPT:http-referrer=APIV2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://combilolo.my.id/kr/index.m3u8?id=kbs1&amp;token=31jhtl2al2q21y2t1k2q213221gdl13d3122wh12eyyat13qad2ds2d5s3sgd33df33w2w2t24h13sd35aa33213tq3dl2watdd1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Kbs2.png/640px-Kbs2.png" ch-number="92" group-logo="",KBS 2
+#EXTVLCOPT:http-referrer=APIV2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://combilolo.my.id/kr/index.m3u8?id=kbs2&amp;token=31jhtl2al2q21y2t1k2q213221gdl13d3122wh12eyyat13qad2ds2d5s3sgd33df33w2w2t24h13sd35aa33213tq3dl2watdd1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Seoul_Broadcasting_System_logo.svg/1200px-Seoul_Broadcasting_System_logo.svg.png" ch-number="92" group-logo="",SBS
+#EXTVLCOPT:http-referrer=APIV2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://combilolo.my.id/kr/index.m3u8?id=sbs&amp;token=31jhtl2al2q21y2t1k2q213221gdl13d3122wh12eyyat13qad2ds2d5s3sgd33df33w2w2t24h13sd35aa33213tq3dl2watdd1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="Entertainment" tvg-logo="https://img.imbc.com/commons/2018/image/comm2018noti/meta_mbc.png" ch-number="92" group-logo="",MBC
+#EXTVLCOPT:http-referrer=APIV2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://combilolo.my.id/kr/index.m3u8?id=mbc&amp;token=31jhtl2al2q21y2t1k2q213221gdl13d3122wh12eyyat13qad2ds2d5s3sgd33df33w2w2t24h13sd35aa33213tq3dl2watdd1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Music_Makes_One_Mnet_Logo.png" ch-number="92" group-logo="",MNET
+#EXTVLCOPT:http-referrer=APIV2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://combilolo.my.id/kr/index.m3u8?id=mnet&amp;token=31jhtl2al2q21y2t1k2q213221gdl13d3122wh12eyyat13qad2ds2d5s3sgd33df33w2w2t24h13sd35aa33213tq3dl2watdd1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/SBS_M_2022_logo.svg/1200px-SBS_M_2022_logo.svg.png" ch-number="92" group-logo="",SBS M
+#EXTVLCOPT:http-referrer=APIV2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://combilolo.my.id/kr/index.m3u8?id=sbsm&amp;token=31jhtl2al2q21y2t1k2q213221gdl13d3122wh12eyyat13qad2ds2d5s3sgd33df33w2w2t24h13sd35aa33213tq3dl2watdd1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/OCN_Logo.svg/1200px-OCN_Logo.svg.png" ch-number="92" group-logo="",OCN
+#EXTVLCOPT:http-referrer=APIV2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://combilolo.my.id/kr/index.m3u8?id=ocn&amp;token=31jhtl2al2q21y2t1k2q213221gdl13d3122wh12eyyat13qad2ds2d5s3sgd33df33w2w2t24h13sd35aa33213tq3dl2watdd1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1200px-Logo_tvN.svg.png" ch-number="92" group-logo="",TVN KR
+#EXTVLCOPT:http-referrer=APIV2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://combilolo.my.id/kr/index.m3u8?id=tvn&amp;token=31jhtl2al2q21y2t1k2q213221gdl13d3122wh12eyyat13qad2ds2d5s3sgd33df33w2w2t24h13sd35aa33213tq3dl2watdd1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="Entertainment" tvg-logo="https://pbs.twimg.com/profile_images/1206833799029374976/QKskGXGQ_400x400.jpg" ch-number="92" group-logo="",JTBC
+#EXTVLCOPT:http-referrer=APIV2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://combilolo.my.id/kr/index.m3u8?id=jtbc&amp;token=31jhtl2al2q21y2t1k2q213221gdl13d3122wh12eyyat13qad2ds2d5s3sgd33df33w2w2t24h13sd35aa33213tq3dl2watdd1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="Entertainment" tvg-logo="https://pbs.twimg.com/profile_images/1206833799029374976/QKskGXGQ_400x400.jpg" ch-number="92" group-logo="",JTBC 2
+#EXTVLCOPT:http-referrer=APIV2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://combilolo.my.id/kr/index.m3u8?id=jtbc2&amp;token=31jhtl2al2q21y2t1k2q213221gdl13d3122wh12eyyat13qad2ds2d5s3sgd33df33w2w2t24h13sd35aa33213tq3dl2watdd1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="knowledge" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f0/Discovery-asia.png" ch-number="92" group-logo="",Discovery Asia 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=27c8a08eabcd4bbc88eda3690cbf6aaf:bb078e32f6df14ca97bff5b8aee8caf5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://combilolo.my.id/ch/fs.mpd?id=DiscoveryAsiaHD&amp;token=31jhtl2al2q21y2t1k2q213221gdl13d3122wh12eyyat13qad2ds2d5s3sgd33df33w2w2t24h13sd35aa33213tq3dl2watdd1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="knowledge" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/24/CGTN_Documentary.svg/1200px-CGTN_Documentary.svg.png" ch-number="92" group-logo="",CGTN Documentary 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ab50469be8b740c699c6b2e2ce697447:94da89d6aefba50b779bf7aa2458a192
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://combilolo.my.id/ch/fs.mpd?id=CGTNDocumentaryHD&amp;token=31jhtl2al2q21y2t1k2q213221gdl13d3122wh12eyyat13qad2ds2d5s3sgd33df33w2w2t24h13sd35aa33213tq3dl2watdd1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="knowledge" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" ch-number="92" group-logo="",Animal Planet 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fe0d35dd7f2045e58bfdfeea879a8ae9:6a61e84d6c9147aa68c06d68f1d7b218
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://combilolo.my.id/ch/fs.mpd?id=AnimalPlanetHD&amp;token=31jhtl2al2q21y2t1k2q213221gdl13d3122wh12eyyat13qad2ds2d5s3sgd33df33w2w2t24h13sd35aa33213tq3dl2watdd1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="knowledge" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg/1200px-Crime_%2B_Investigation_Logo_10.2019.svg.png" ch-number="92" group-logo="",Crime Investigation 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6823c964c02441ddb7a86545f43105b9:239a8749f4ed765966b163751b1619c3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://combilolo.my.id/ch/fs.mpd?id=CrimeInvestigationHD&amp;token=31jhtl2al2q21y2t1k2q213221gdl13d3122wh12eyyat13qad2ds2d5s3sgd33df33w2w2t24h13sd35aa33213tq3dl2watdd1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="knowledge" tvg-logo="https://www.mygreenpod.com/wp-content/uploads/2019/04/Love-Nature-Logo.jpg" ch-number="92" group-logo="",Love Nature 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8b878569bb12450aa445e43b705109be:33183c9de39dafd7c9310081f97b4825
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://combilolo.my.id/ch/fs.mpd?id=LoveNatureHD&amp;token=31jhtl2al2q21y2t1k2q213221gdl13d3122wh12eyyat13qad2ds2d5s3sgd33df33w2w2t24h13sd35aa33213tq3dl2watdd1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="knowledge" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&amp;Quality=85&amp;ImageId=%276318792%27&amp;EntityType=%27Item%27&amp;EntityId=%27158961%27&amp;Width=696&amp;Height=250" ch-number="92" group-logo="",Global Trekker 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=87ca873142174f2bbdcfadd878422c77:bb51816f7407f68830dcdc215416f385
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://combilolo.my.id/ch/fs.mpd?id=GlobalTrekkerHD&amp;token=31jhtl2al2q21y2t1k2q213221gdl13d3122wh12eyyat13qad2ds2d5s3sgd33df33w2w2t24h13sd35aa33213tq3dl2watdd1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="Religi" tvg-logo="https://i.ytimg.com/vi/zJDAzmrKZas/maxresdefault.jpg" ch-number="92" group-logo="",Citra Muslim 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f0bdfdef0f564819a2b43345b328f989:9f7555440fb310341ddb00cdbc638cea
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://combilolo.my.id/ch/fs.mpd?id=CitraMuslimHD&amp;token=31jhtl2al2q21y2t1k2q213221gdl13d3122wh12eyyat13qad2ds2d5s3sgd33df33w2w2t24h13sd35aa33213tq3dl2watdd1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="Musik" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1653049434-.png" ch-number="92" group-logo="",Citra Dangdut 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=44a4c73921ea4f5f90eaaaf793d3f7cf:3be319093fec8a409fe0553128089671
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://combilolo.my.id/ch/fs.mpd?id=CitraDangdutHD&amp;token=31jhtl2al2q21y2t1k2q213221gdl13d3122wh12eyyat13qad2ds2d5s3sgd33df33w2w2t24h13sd35aa33213tq3dl2watdd1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="Musik" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/12px-MTV_Live_2021_logo.svg.png" ch-number="92" group-logo="",MTV Live 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fd2992f9397c491497015b57cd1c8747:1dcd4c7b242b479fd9f1899120fd1f2f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://combilolo.my.id/ch/fs.mpd?id=MTVLiveHD&amp;token=31jhtl2al2q21y2t1k2q213221gdl13d3122wh12eyyat13qad2ds2d5s3sgd33df33w2w2t24h13sd35aa33213tq3dl2watdd1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="Musik" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/MTV_90s_2022.svg/298px-MTV_90s_2022.svg.png" ch-number="92" group-logo="",MTV 90s 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e83b7a7c66c941d48dfd393086077745:71f4a249b41cb62db6164b47fb22722f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://combilolo.my.id/ch/fs.mpd?id=MTV90sHD&amp;token=31jhtl2al2q21y2t1k2q213221gdl13d3122wh12eyyat13qad2ds2d5s3sgd33df33w2w2t24h13sd35aa33213tq3dl2watdd1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="Musik" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg81UQ3rLQTbuhNUTsRSLCSw83ut8RkAsah-HHq8GAjw&amp;s" ch-number="92" group-logo="",Stingray Festival 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e038b63a6d7e423797aa0f8991984d98:cb3060662f6c3997a8d3404419cdf048
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://combilolo.my.id/ch/fs.mpd?id=StingrayFestivalHD&amp;token=31jhtl2al2q21y2t1k2q213221gdl13d3122wh12eyyat13qad2ds2d5s3sgd33df33w2w2t24h13sd35aa33213tq3dl2watdd1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="Lifestyle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/HGTV_Logo.svg/2560px-HGTV_Logo.svg.png" ch-number="92" group-logo="",HGTV  
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4d3d70298a8f442f9dee7c11a47c3edf:ff7a89f008a62664e5ebd821187296d1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://combilolo.my.id/ch/fs.mpd?id=HGTVHD&amp;token=31jhtl2al2q21y2t1k2q213221gdl13d3122wh12eyyat13qad2ds2d5s3sgd33df33w2w2t24h13sd35aa33213tq3dl2watdd1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="Lifestyle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/DMAX_Logo_16_05_2011.jpg" ch-number="92" group-logo="",DMAX
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=62fae935e91c4e8d9e835a294ea81909:328cfed51cba1bfa41f1bda219ceeff8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://combilolo.my.id/ch/fs.mpd?id=DMAXHD&amp;token=31jhtl2al2q21y2t1k2q213221gdl13d3122wh12eyyat13qad2ds2d5s3sgd33df33w2w2t24h13sd35aa33213tq3dl2watdd1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="Kids" tvg-logo="https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/eg3iqw8eqnbgbi5fty9b" ch-number="92" group-logo="",Tooniverse
+#EXTVLCOPT:http-referrer=APIV2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://combilolo.my.id/kr/index.m3u8?id=tooniverse&amp;token=31jhtl2al2q21y2t1k2q213221gdl13d3122wh12eyyat13qad2ds2d5s3sgd33df33w2w2t24h13sd35aa33213tq3dl2watdd1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/12px-Cartoon_Network_2010_logo.svg.png" ch-number="92" group-logo="",Cartoon Network 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=12fee297311f4bab91367d0e9c3a0a2f:656071dbdffbda440a6fde4fda56de21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://combilolo.my.id/ch/fs.mpd?id=CartoonNetWHD&amp;token=31jhtl2al2q21y2t1k2q213221gdl13d3122wh12eyyat13qad2ds2d5s3sgd33df33w2w2t24h13sd35aa33213tq3dl2watdd1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/12px-Nickelodeon_2023_logo_%28outline%29.svg.png" ch-number="92" group-logo="",Nickelodeon 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ef4d19eafa0d4dcbb6a247e13753caab:a693256564fea641b5c4fc59adbdcf10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://combilolo.my.id/ch/fs.mpd?id=Nickelodeon&amp;token=31jhtl2al2q21y2t1k2q213221gdl13d3122wh12eyyat13qad2ds2d5s3sgd33df33w2w2t24h13sd35aa33213tq3dl2watdd1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="Kids" tvg-logo="https://play-lh.googleusercontent.com/rlxooZ1FOBJ3YlXGuLr2Y02dE0eo6B5-1wy9X7vCPBXM7sVc5YFqSyGgUGGwfHpw3xI" ch-number="92" group-logo="",Cartoon ito 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=955574ee2b674f0fbbad818fb384c233:51d2893619bdd062fb4c0cdaafefbf27
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://combilolo.my.id/ch/fs.mpd?id=CartoonitoHD&amp;token=31jhtl2al2q21y2t1k2q213221gdl13d3122wh12eyyat13qad2ds2d5s3sgd33df33w2w2t24h13sd35aa33213tq3dl2watdd1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/12px-Nick_Jr._logo_2023_%28outline%29.svg.png" ch-number="92" group-logo="",Nick Jr 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=928de1d7673c4fdd8ff22287fbec3c14:3955eb1e2dd8ac29a778bc572dd64794
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://combilolo.my.id/ch/fs.mpd?id=NickJr&amp;token=31jhtl2al2q21y2t1k2q213221gdl13d3122wh12eyyat13qad2ds2d5s3sgd33df33w2w2t24h13sd35aa33213tq3dl2watdd1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/DreamWorks_Channel_Logo.svg/12px-DreamWorks_Channel_Logo.svg.png" ch-number="92" group-logo="",DreamWorks 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f08c30b7ee114399b72e77b0c099244b:a33d496875d04510a9b3116ba51ae65d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://combilolo.my.id/ch/fs.mpd?id=DreamWorksHD&amp;token=31jhtl2al2q21y2t1k2q213221gdl13d3122wh12eyyat13qad2ds2d5s3sgd33df33w2w2t24h13sd35aa33213tq3dl2watdd1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="Kids" tvg-logo="https://thumbor.prod.vidiocdn.com/eGF5_TPnL6ZIJMECqvWQtJrkWpc=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6397/horee-5c45d3.jpg" ch-number="92" group-logo="",Horee  
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0a3aaee779e940db8ff24f9f3eb5c98a:440e1c1ce9ba337844409c8bcad5a268
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://combilolo.my.id/ch/fs.mpd?id=HoreeHD&amp;token=31jhtl2al2q21y2t1k2q213221gdl13d3122wh12eyyat13qad2ds2d5s3sgd33df33w2w2t24h13sd35aa33213tq3dl2watdd1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/12px-Animax_logo.svg.png" ch-number="92" group-logo="",Animax  
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ecc5bc0e2dec4b9495db147278fb3904:ca86d9fdad6a8e9b1c13368d734e2095
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://combilolo.my.id/ch/fs.mpd?id=AnimaxHD&amp;token=31jhtl2al2q21y2t1k2q213221gdl13d3122wh12eyyat13qad2ds2d5s3sgd33df33w2w2t24h13sd35aa33213tq3dl2watdd1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="Sports" tvg-logo="https://t1.daumcdn.net/news/202204/18/tvdaily/20220418093208235ifzb.jpg" ch-number="92" group-logo="",TVN Sports
+#EXTVLCOPT:http-referrer=APIV2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://combilolo.my.id/kr/index.m3u8?id=tvnsports&amp;token=31jhtl2al2q21y2t1k2q213221gdl13d3122wh12eyyat13qad2ds2d5s3sgd33df33w2w2t24h13sd35aa33213tq3dl2watdd1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="Sports" tvg-logo="https://i0.wp.com/img.isuper.tv/live-tv/kor-tv/kbsn-sports-live.jpg" ch-number="92" group-logo="",KBSN Sports
+#EXTVLCOPT:http-referrer=APIV2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://combilolo.my.id/kr/index.m3u8?id=kbsnsports&amp;token=31jhtl2al2q21y2t1k2q213221gdl13d3122wh12eyyat13qad2ds2d5s3sgd33df33w2w2t24h13sd35aa33213tq3dl2watdd1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="Sports" tvg-logo="https://www.spotv.net/images/intro/intro_logo.png" ch-number="92" group-logo="",SPOTV Korea
+#EXTVLCOPT:http-referrer=APIV2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://combilolo.my.id/kr/index.m3u8?id=spotv&amp;token=31jhtl2al2q21y2t1k2q213221gdl13d3122wh12eyyat13qad2ds2d5s3sgd33df33w2w2t24h13sd35aa33213tq3dl2watdd1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="Sports" tvg-logo="https://www.spotv.net/images/intro/intro_logo.png" ch-number="92" group-logo="",SPOTV Korea 2
+#EXTVLCOPT:http-referrer=APIV2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://combilolo.my.id/kr/index.m3u8?id=spotv2&amp;token=31jhtl2al2q21y2t1k2q213221gdl13d3122wh12eyyat13qad2ds2d5s3sgd33df33w2w2t24h13sd35aa33213tq3dl2watdd1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik9XSm1NbU0wTjJFdFpXSTNaQzAwTWpnNExXRmxPRE10WkRCaVlXRTNNalkxTXpkaiIsIndtb3BpZCI6MzIsImV4cCI6MTcxODg0NzU3MywiaWF0IjoxNzE4MjQzNTczfQ.1toKM24TTVnIgUneDqAby6R_XJfca-ZjDKBbB67uusQ"}
+#EXTINF:-1 tvg-id="test" group-title="Sports" tvg-logo="https://telegra.ph/file/ec444fecfcb3a20cd6aa4.png" ch-number="92" group-logo="",Astro SuperStar
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"lofZG3/WR6iBg9CkzJJfdw", "kid":"s8z3OnpmT4WudBE2f/svpw" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://combilolo.my.id/ch/sooka.mpd?id=CH1&amp;type=d3j4fjrwclc3o8&amp;token=31jhtl2al2q21y2t1k2q213221gdl13d3122wh12eyyat13qad2ds2d5s3sgd33df33w2w2t24h13sd35aa33213tq3dl2watdd1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik9XSm1NbU0wTjJFdFpXSTNaQzAwTWpnNExXRmxPRE10WkRCaVlXRTNNalkxTXpkaiIsIndtb3BpZCI6MzIsImV4cCI6MTcxODg0NzU3MywiaWF0IjoxNzE4MjQzNTczfQ.1toKM24TTVnIgUneDqAby6R_XJfca-ZjDKBbB67uusQ"}
+#EXTINF:-1 tvg-id="test" group-title="Sports" tvg-logo="https://telegra.ph/file/bdb04ae013c6d829c3851.png" ch-number="92" group-logo="",Astro SuperStar 2
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"QfI0+4hZCvOw0iQRGmG/cQ", "kid":"jx2jmTJSR+ymrN17r7lfog" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://combilolo.my.id/ch/sooka.mpd?id=CH4&amp;type=d3j4fjrwclc3o8&amp;token=31jhtl2al2q21y2t1k2q213221gdl13d3122wh12eyyat13qad2ds2d5s3sgd33df33w2w2t24h13sd35aa33213tq3dl2watdd1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik9XSm1NbU0wTjJFdFpXSTNaQzAwTWpnNExXRmxPRE10WkRCaVlXRTNNalkxTXpkaiIsIndtb3BpZCI6MzIsImV4cCI6MTcxODg0NzU3MywiaWF0IjoxNzE4MjQzNTczfQ.1toKM24TTVnIgUneDqAby6R_XJfca-ZjDKBbB67uusQ"}
+#EXTINF:-1 tvg-id="test" group-title="Sports" tvg-logo="https://telegra.ph/file/fee0eec440200aabe6685.png" ch-number="92" group-logo="",Astro SuperStar 3
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c5e64178c33e4185a3406d84252cd7a0:3bedd0bcd11756016c9a3ccbe79f6665
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://combilolo.my.id/ch/sooka.mpd?id=CH1&amp;type=d3ey18635ukr4v&amp;token=31jhtl2al2q21y2t1k2q213221gdl13d3122wh12eyyat13qad2ds2d5s3sgd33df33w2w2t24h13sd35aa33213tq3dl2watdd1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik9XSm1NbU0wTjJFdFpXSTNaQzAwTWpnNExXRmxPRE10WkRCaVlXRTNNalkxTXpkaiIsIndtb3BpZCI6MzIsImV4cCI6MTcxODg0NzU3MywiaWF0IjoxNzE4MjQzNTczfQ.1toKM24TTVnIgUneDqAby6R_XJfca-ZjDKBbB67uusQ"}
+#EXTINF:-1 tvg-id="test" group-title="Sports" tvg-logo="https://telegra.ph/file/4cf5891aa6569231ea9a8.png" ch-number="92" group-logo="",Astro SuperStar 4
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bda7f74b842f4f0eb142395dadd91f07:fb12f661d640e4ebdf38e312302260eb
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://combilolo.my.id/ch/sooka.mpd?id=CH2&amp;type=d3j4fjrwclc3o8&amp;token=31jhtl2al2q21y2t1k2q213221gdl13d3122wh12eyyat13qad2ds2d5s3sgd33df33w2w2t24h13sd35aa33213tq3dl2watdd1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="Sports" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/3be546e016d043aebbd64ab46d72a9b6/version/0/width/500/height/280" ch-number="92" group-logo="",SPOTV STADIA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e7c650ac72dcd0311411832a8271bb10:ea8fa43cc7102e481cd441c58b2ecb08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://combilolo.my.id/ch/astro.mpd?id=5148&amp;type=dashiso&amp;token=31jhtl2al2q21y2t1k2q213221gdl13d3122wh12eyyat13qad2ds2d5s3sgd33df33w2w2t24h13sd35aa33213tq3dl2watdd1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="Sports" tvg-logo="https://w7.pngwing.com/pngs/19/599/png-transparent-bein-sports-text-bein-sports-united-states-la-liga-bein-sports-1-sports-miscellaneous-purple-television.png" ch-number="92" group-logo="",Bein Sport 1 Premium
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c0d3cfa94189430100d5481a49b7b36:31a0d7596d90470227e17ab97eb3d6b2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://combilolo.my.id/bein/index.mpd?id=beinsports1&amp;token=31jhtl2al2q21y2t1k2q213221gdl13d3122wh12eyyat13qad2ds2d5s3sgd33df33w2w2t24h13sd35aa33213tq3dl2watdd1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="Sports" tvg-logo="https://w7.pngwing.com/pngs/19/599/png-transparent-bein-sports-text-bein-sports-united-states-la-liga-bein-sports-1-sports-miscellaneous-purple-television.png" ch-number="92" group-logo="",Bein Sport Max
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ba6ca576b814da5440689919cf982b93:7d7c899513b0ca4bfc3a8028b9b60e19
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://combilolo.my.id/bein/index.mpd?id=bein-sports-overflow10&amp;token=31jhtl2al2q21y2t1k2q213221gdl13d3122wh12eyyat13qad2ds2d5s3sgd33df33w2w2t24h13sd35aa33213tq3dl2watdd1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik9XSm1NbU0wTjJFdFpXSTNaQzAwTWpnNExXRmxPRE10WkRCaVlXRTNNalkxTXpkaiIsIndtb3BpZCI6MzIsImV4cCI6MTcxODg0NzU3MywiaWF0IjoxNzE4MjQzNTczfQ.1toKM24TTVnIgUneDqAby6R_XJfca-ZjDKBbB67uusQ"}
+#EXTINF:-1 tvg-id="test" group-title="Sports" tvg-logo="https://telegra.ph/file/bf3c99a8a7c2b8aae472c.png" ch-number="92" group-logo="",ARENA BOLA 1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"4dQox/HKgjOabPodB1dCjg", "kid":"dIHT43OMRnaPE44gj+6Qdg" }], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://combilolo.my.id/ch/sooka.mpd?id=CH1&amp;type=d1fk7kbmz4il3&amp;token=31jhtl2al2q21y2t1k2q213221gdl13d3122wh12eyyat13qad2ds2d5s3sgd33df33w2w2t24h13sd35aa33213tq3dl2watdd1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik9XSm1NbU0wTjJFdFpXSTNaQzAwTWpnNExXRmxPRE10WkRCaVlXRTNNalkxTXpkaiIsIndtb3BpZCI6MzIsImV4cCI6MTcxODg0NzU3MywiaWF0IjoxNzE4MjQzNTczfQ.1toKM24TTVnIgUneDqAby6R_XJfca-ZjDKBbB67uusQ"}
+#EXTINF:-1 tvg-id="test" group-title="Sports" tvg-logo="https://telegra.ph/file/6996a6dca16f43f734049.png" ch-number="92" group-logo="",ARENA BOLA 2
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"eTnjNb+Mu9aIL59cnN6+GQ", "kid":"mWhVRUkdQLSTs6SyY8ckXg" }], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://combilolo.my.id/ch/sooka.mpd?id=CH5&amp;type=d1fk7kbmz4il3&amp;token=31jhtl2al2q21y2t1k2q213221gdl13d3122wh12eyyat13qad2ds2d5s3sgd33df33w2w2t24h13sd35aa33213tq3dl2watdd1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik9XSm1NbU0wTjJFdFpXSTNaQzAwTWpnNExXRmxPRE10WkRCaVlXRTNNalkxTXpkaiIsIndtb3BpZCI6MzIsImV4cCI6MTcxODg0NzU3MywiaWF0IjoxNzE4MjQzNTczfQ.1toKM24TTVnIgUneDqAby6R_XJfca-ZjDKBbB67uusQ"}
+#EXTINF:-1 tvg-id="Lokal" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/Astro_Arena_HD.png" ch-number="92" group-logo="",Astro Arena
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4dQox/HKgjOabPodB1dCjg", "kid":"dIHT43OMRnaPE44gj+6Qdg" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://combilolo.my.id/ch/sooka.mpd?id=CH1&amp;type=d1fk7kbmz4il3&amp;token=31jhtl2al2q21y2t1k2q213221gdl13d3122wh12eyyat13qad2ds2d5s3sgd33df33w2w2t24h13sd35aa33213tq3dl2watdd1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik9XSm1NbU0wTjJFdFpXSTNaQzAwTWpnNExXRmxPRE10WkRCaVlXRTNNalkxTXpkaiIsIndtb3BpZCI6MzIsImV4cCI6MTcxODg0NzU3MywiaWF0IjoxNzE4MjQzNTczfQ.1toKM24TTVnIgUneDqAby6R_XJfca-ZjDKBbB67uusQ"}
+#EXTINF:-1 tvg-id="test" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Astro_Arena_2.png" ch-number="92" group-logo="",Astro Arena 2
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"eTnjNb+Mu9aIL59cnN6+GQ", "kid":"mWhVRUkdQLSTs6SyY8ckXg" }], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://combilolo.my.id/ch/sooka.mpd?id=CH5&amp;type=d1fk7kbmz4il3&amp;token=31jhtl2al2q21y2t1k2q213221gdl13d3122wh12eyyat13qad2ds2d5s3sgd33df33w2w2t24h13sd35aa33213tq3dl2watdd1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik9XSm1NbU0wTjJFdFpXSTNaQzAwTWpnNExXRmxPRE10WkRCaVlXRTNNalkxTXpkaiIsIndtb3BpZCI6MzIsImV4cCI6MTcxODg0NzU3MywiaWF0IjoxNzE4MjQzNTczfQ.1toKM24TTVnIgUneDqAby6R_XJfca-ZjDKBbB67uusQ"}
+#EXTINF:-1 tvg-id="test" group-title="Sports" tvg-logo="https://telegra.ph/file/d94c1cdf66541be72786b.png" ch-number="92" group-logo="",beIN Sports
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"SziYvIpv/Ytcs0p82QbcNQ", "kid":"n7/9H/ITQBaaWhFCvPTdrQ" }], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://combilolo.my.id/ch/sooka.mpd?id=CH5&amp;type=dcqkiaqc3sngm&amp;token=31jhtl2al2q21y2t1k2q213221gdl13d3122wh12eyyat13qad2ds2d5s3sgd33df33w2w2t24h13sd35aa33213tq3dl2watdd1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik9XSm1NbU0wTjJFdFpXSTNaQzAwTWpnNExXRmxPRE10WkRCaVlXRTNNalkxTXpkaiIsIndtb3BpZCI6MzIsImV4cCI6MTcxODg0NzU3MywiaWF0IjoxNzE4MjQzNTczfQ.1toKM24TTVnIgUneDqAby6R_XJfca-ZjDKBbB67uusQ"}
+#EXTINF:-1 tvg-id="test" group-title="Sports" tvg-logo="https://telegra.ph/file/8b9be78d45d64af83200c.png" ch-number="92" group-logo="",beIN Sports 2
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"xSfUpbPUNkMSpOeLnenogA", "kid":"XLBdFMjdRWO5VuN9Cg8Rdw" }], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://combilolo.my.id/ch/sooka.mpd?id=CH4&amp;type=dcqkiaqc3sngm&amp;token=31jhtl2al2q21y2t1k2q213221gdl13d3122wh12eyyat13qad2ds2d5s3sgd33df33w2w2t24h13sd35aa33213tq3dl2watdd1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik9XSm1NbU0wTjJFdFpXSTNaQzAwTWpnNExXRmxPRE10WkRCaVlXRTNNalkxTXpkaiIsIndtb3BpZCI6MzIsImV4cCI6MTcxODg0NzU3MywiaWF0IjoxNzE4MjQzNTczfQ.1toKM24TTVnIgUneDqAby6R_XJfca-ZjDKBbB67uusQ"}
+#EXTINF:-1 tvg-id="test" group-title="Sports" tvg-logo="https://telegra.ph/file/5e4a76a2f67d30080d63f.png" ch-number="92" group-logo="",beIN Sports 3
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"ubYV/h3VVgYX3hkdJTwCvA", "kid":"5Uay6K31Toe3u2wM1szC2g" }], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://combilolo.my.id/ch/sooka.mpd?id=CH2&amp;type=dcqkiaqc3sngm&amp;token=31jhtl2al2q21y2t1k2q213221gdl13d3122wh12eyyat13qad2ds2d5s3sgd33df33w2w2t24h13sd35aa33213tq3dl2watdd1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="Sports" tvg-logo="" ch-number="92" group-logo="",Premier Sports
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9bfeb5068725617dbad6338473da6d10:06577ffcc4935ba24aff4c4c9dd6846d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://combilolo.my.id/ch/astro.mpd?id=2601&amp;type=dashiso&amp;token=31jhtl2al2q21y2t1k2q213221gdl13d3122wh12eyyat13qad2ds2d5s3sgd33df33w2w2t24h13sd35aa33213tq3dl2watdd1
